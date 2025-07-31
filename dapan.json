@@ -1,0 +1,15 @@
+[
+  {
+    "subject": "Kinh tế vĩ mô 1",
+    "question": "GDP là gì?",
+    "answer": "Tổng sản phẩm quốc nội"
+  },
+  {
+    "subject": "Kinh tế vĩ mô 1",
+    "question": "Chức năng của tiền tệ là gì?",
+    "answer": [
+      "Lưu trữ giá trị",
+      "Phương tiện trao đổi"
+    ]
+  }
+]
