@@ -87205,11 +87205,962 @@
       "question": "Nhóm môi trường chính trị - pháp luật bao gồm tất cả các yếu tố dưới đây TRỪ:",
       "answer": "Thói quen tiêu dùng"
     },
+     {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Công cụ thống kê cơ bản có thể được dùng để làm gì trong giai đoạn đầu của dự án phân tích kinh doanh?",
+    "answer": "Nhận diện xu hướng, tính thời vụ và mối quan hệ giữa các đại lượng."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong nền kinh tế số hiện đại, dữ liệu đóng vai trò quan trọng như thế nào?",
+    "answer": "Một tài sản chiến lược tạo lợi thế cạnh tranh."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Tại sao đánh giá mô hình cần đánh giá tác động thực tiễn thay vì chỉ đánh giá chỉ số kỹ thuật?",
+    "answer": "Vì mục đích cuối cùng của doanh nghiệp là hiệu quả hoạt động và lợi nhuận."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong quy trình Khoa học dữ liệu, vai trò trung tâm của dữ liệu là gì?",
+    "answer": "Là nguyên liệu đầu vào để trích xuất tri thức, hỗ trợ ra quyết định."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Chuyên gia phân tích dữ liệu cần kỹ năng gì để truyền đạt kết quả?",
+    "answer": "Kể chuyện bằng dữ liệu (data storytelling)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Chuyên gia phân tích dữ liệu tập trung vào nhiệm vụ gì?",
+    "answer": "Khám phá xu hướng và diễn giải dữ liệu"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Hoạt động chính trong bước Xác định bài toán là gì?",
+    "answer": "Xác định mục tiêu kinh doanh, tiêu chí thành công và chuyển đổi thành bài toán dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Phạm vi ứng dụng của Khoa học dữ liệu bao trùm các lĩnh vực nào?",
+    "answer": "Hầu hết các lĩnh vực: Kinh doanh, y tế, quản trị công, và hoạch định chính sách."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Tư duy phân tích dữ liệu (data-analytic thinking) có vai trò gì trong việc ra quyết định?",
+    "answer": "Cung cấp khung tư duy để đặt câu hỏi đúng, tổ chức phân tích và diễn giải kết quả."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong bước xử lý dữ liệu, phân tích dữ liệu đóng vai trò gì?",
+    "answer": "Đánh giá chất lượng dữ liệu và đề xuất phương án xử lý sai sót."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Đặc thù của dữ liệu trong kinh tế và kinh doanh khác biệt với dữ liệu vật lý là gì?",
+    "answer": "Dữ liệu trong kinh tế và kinh doanh phản ánh hành vi của con người."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Để ban giám đốc của một doanh nghiệp tin dùng một mô hình dự báo doanh thu, mô hình đó cần có đặc điểm gì?",
+    "answer": "Đảm bảo tính chính xác về mặt học thuật và giải thích được sự tác động của các yếu tố đến doanh thu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Phân tích dữ liệu giúp bước xác định bài toán trong dự án Data Science như thế nào?",
+    "answer": "Cung cấp các thông tin sơ bộ (Insights) để định hình hướng đi đúng đắn cho dự án."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Financial Data Analyst chịu trách nhiệm gì?",
+    "answer": "Dự báo tài chính và phân tích báo cáo"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bước đầu tiên và quan trọng nhất trong chu trình khai thác dữ liệu là gì?",
+    "answer": "Hiểu nghiệp vụ và xác định bài toán."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Rủi ro lớn nhất khi doanh nghiệp thiếu nền tảng tư duy phân tích dữ liệu là gì?",
+    "answer": "Có thể mắc phải các sai lầm mang tính hệ thống do thiên kiến nhận thức và trực giác sai lệch."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Mục tiêu chính của Phân tích dữ liệu (Data Analytics) là gì?",
+    "answer": "Khám phá thông tin hữu ích, kết luận và hỗ trợ ra quyết định từ dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Yếu tố nào sau đây không phải là trụ cột chính của Khoa học dữ liệu?",
+    "answer": "Quản lý nhân sự."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Phân tích chẩn đoán (Diagnostic Analytics) tập trung vào điều gì?",
+    "answer": "Tìm nguyên nhân của các hiện tượng đã xảy ra."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Việc thiếu kiến thức chuyên môn khi thực hiện một dự án liên quan tới dữ liệu có thể dẫn đến vấn đề gì?",
+    "answer": "Diễn giải sai ý nghĩa của dữ liệu hoặc đưa ra kết luận vô nghĩa."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khoa học dữ liệu (Data Science) được định nghĩa chính xác nhất là gì?",
+    "answer": "Một lĩnh vực liên ngành kết hợp giữa Toán-Thống kê, Khoa học máy tính, và Kiến thức chuyên môn."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Marketing Analyst cần kỹ năng nào?",
+    "answer": "Phân tích hiệu quả chi phí quảng cáo"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Operations Analyst tối ưu hóa điều gì?",
+    "answer": "Quy trình vận hành và chuỗi cung ứng"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Phân tích mô tả (Descriptive Analytics) trả lời cho câu hỏi nào?",
+    "answer": "Chuyện gì đã xảy ra?"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Phân tích đề xuất (Prescriptive Analytics) nhằm mục đích gì?",
+    "answer": "Gợi ý hành động tối ưu để đạt mục tiêu mong muốn."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Phân tích dự đoán (Predictive Analytics) sử dụng kỹ thuật nào?",
+    "answer": "Mô hình thống kê và học máy để ước lượng khả năng xảy ra sự kiện trong tương lai."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Việc lựa chọn thuật toán trong bước Xây dựng mô hình (Modeling) phụ thuộc chủ yếu vào yếu tố nào?",
+    "answer": "Mục tiêu bài toán và đặc điểm dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bước Làm sạch dữ liệu trong bối cảnh phân tích kinh doanh thường bao gồm việc xử lý vấn đề nào?",
+    "answer": "Xử lý dữ liệu bị thiếu hoặc trùng lặp."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bước Tiền xử lý dữ liệu (Data preprocessing) bao gồm những hoạt động nào?",
+    "answer": "Làm sạch dữ liệu, chuẩn hóa, và tạo đặc trưng mới."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Cho đoạn mã sau, điều gì xảy ra?\nngay_khai_truong = (16, 12, 2023)\nngay_khai_truong[0] = 17\nprint(ngay_khai_truong)",
+    "answer": "Báo lỗi"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, hàm nào dùng để chuyển một chuỗi số như \"25\" thành số nguyên?",
+    "answer": "int(\"25\")"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Cho đoạn mã sau, kết quả in ra là gì?\nthuc_don = [\"Đen\", \"Sữa\", \"Bạc xỉu\", \"Trà đào\"]\nprint(thuc_don[1], thuc_don[-2])",
+    "answer": "Sữa Bạc xỉu"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nx = \"Python\"\nprint(x[2:5])",
+    "answer": "tho"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nx = (1, 2, 3)\nx[0] = 5\nprint(x)",
+    "answer": "TypeError"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nx = [1, 2, 3]\nprint(x[-1])",
+    "answer": "3"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nprint(5 == 5.0)",
+    "answer": "True"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Điều gì xảy ra khi thực hiện các phép gán sau:\nx = [1, 2, 3]\ny = x\nx[0] = 5",
+    "answer": "y sẽ thay đổi thành [5, 2, 3]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\ns = \"abcdef\"\nprint(s[-2:])",
+    "answer": "\"ef\""
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, kết quả của biểu thức sau là gì?\n10 % 3 * 2",
+    "answer": "2"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Câu lệnh nào sau đây tạo ra một danh sách (list) trong Python?",
+    "answer": "list1 = [1, 2, 3]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nt = (1, 2) + (3, 4)\nprint(t)",
+    "answer": "(1, 2, 3, 4)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Cho đoạn mã sau, kết quả in ra là gì?\nnhom = {\"cà phê\", \"trà\", \"cà phê\"}\nprint(len(nhom))",
+    "answer": "2"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, giá trị của biểu thức sau là gì?\n\"abc\"[1] + \"xyz\"[0]",
+    "answer": "\"bx\""
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Cho đoạn mã sau, kết quả in ra là gì?\nthuc_don = [\"Cà phê đen\", \"Cà phê sữa\", \"Trà đào\"]\nthuc_don[0] = \"Cà phê muối\"\nprint(thuc_don[0], \"-\", thuc_don[-1])",
+    "answer": "Cà phê muối - Trà đào"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\na = [1, 2, 3]\na[0] = 10\nprint(a)",
+    "answer": "[10, 2, 3]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kiểu dữ liệu Tuple trong Python có đặc điểm nào?",
+    "answer": "Không thể thay đổi"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong ngôn ngữ Python, tên biến nào sau đây không hợp lệ?",
+    "answer": "2value"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nx = [1, [2, 3]]\nprint(x[1][0])",
+    "answer": "2"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nt = (1, 2, 3)\nt[1] = 5\nprint(t)",
+    "answer": "Lỗi"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Câu lệnh nào sau đây tạo ra một tuple trong Python?",
+    "answer": "t = (1, 2, 3)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Câu lệnh nào sau đây khai báo biến hợp lệ trong Python?",
+    "answer": "x = 5"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, câu lệnh tạo danh sách (list) rỗng là gì?",
+    "answer": "list()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\ns = \"abcdef\"\nprint(s[1:4])",
+    "answer": "\"bcd\""
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nx = [1, 2, 3]\nx.append(4)\nprint(x)",
+    "answer": "[1, 2, 3, 4]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Điều nào sau đây là đúng khi nói về cú pháp Python?",
+    "answer": "Python phân biệt chữ hoa–thường"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, kết quả của biểu thức sau là gì?\n2 ** 3 * 3",
+    "answer": "24"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Lệnh kiểm tra kiểu dữ liệu của biến x trong Python là gì?",
+    "answer": "type(x)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nx = [1, 2, 3]\nprint(2 in x)",
+    "answer": "True"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, điều gì sẽ xảy ra nếu không có khối else trong cấu trúc if?",
+    "answer": "Không làm gì khi điều kiện không thỏa mãn"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, từ khóa nào dùng để trả về giá trị trong hàm?",
+    "answer": "return"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\ndef test(a, b=2):\n    print(a + b)\ntest(3)",
+    "answer": "5"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, kiểu Dictionary có cho phép trùng key không?",
+    "answer": "Không"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nx = 1\nwhile x < 4:\n    x *= 2\nprint(x)",
+    "answer": "4"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\ndef f():\n    return 5\nprint(f() + 3)",
+    "answer": "8"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn mã sau là gì?\nx = 5\ndef f():\n    x = 10\nf()\nprint(x)",
+    "answer": "5"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, điều gì xảy ra khi hàm không có câu lệnh return?",
+    "answer": "Hàm trả về None"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, đâu là lệnh để kiểm tra xem \"a\" có phải là một key trong dictionary d hay không?",
+    "answer": "\"a\" in d.keys()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Với DataFrame df, lệnh nào không hợp lệ?",
+    "answer": "df.iloc[1:3, 'A']"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Với DataFrame df, điều kiện lọc với nhiều tiêu chí đúng cách là:",
+    "answer": "df[(df[\"A\"] > 5) & (df[\"B\"] == 2)]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Giả sử DataFrame df có index từ 0–9. Lệnh nào trả về dòng cuối cùng?",
+    "answer": "df.iloc[-1]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Với DataFrame df, lệnh nào chọn hàng có cột A > 2 và cột B < 5 điều kiện nhiều cột?",
+    "answer": "df[(df.A > 2) & (df.B < 5)]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kết quả của đoạn code sau là gì?\nimport pandas as pd\nobj = pd.Series([4, 7, -5, 3])\nprint(obj.index)",
+    "answer": "RangeIndex(start=0, stop=4, step=1)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, để lấy danh sách tên cột trong DataFrame df ta sử dụng câu lệnh nào?",
+    "answer": "df.columns"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong ngôn ngữ Python, với DataFrame df, câu lệnh df.head(3) sẽ cho kết quả là gì?",
+    "answer": "Ba hàng đầu tiên của DataFrame df"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Pandas, để lấy cột \"A\" trong DataFrame df, ta sử dụng câu lệnh nào?",
+    "answer": "df[\"A\"]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Với DataFrame df, khi dùng df.iloc[2], Python sẽ thực hiện điều gì?",
+    "answer": "Lấy hàng index vị trí 2 (bắt đầu từ 0)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Với DataFrame df, kết quả của df.iloc[:, 1:3] là gì?",
+    "answer": "Chọn tất cả hàng, cột 1 và 2"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Phương thức describe() trên một DataFrame số sẽ trả về những thông tin gì?",
+    "answer": "Số lượng, trung bình, độ lệch chuẩn, min, max, và các phân vị"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, thuộc tính nào dùng để truy xuất hàng của DataFrame df theo tên (nhãn)?",
+    "answer": "df.loc[]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Python, với DataFrame df, để chọn hàng có index từ 2 đến 5 (bao gồm 5), câu lệnh sử dụng là gì?",
+    "answer": "df.loc[2:5]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bạn cần đọc nhiều sheet từ file Excel lớn. Cách nào tránh phải mở file nhiều lần?",
+    "answer": "xfile = pd.ExcelFile(\"file.xlsx\") → xfile.parse(\"Sheet1\") → xfile.parse(\"Sheet2\")"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bạn muốn đọc file orders.xlsx trong đó dữ liệu cần lấy nằm ở sheet thứ hai trong workbook. Lệnh nào phù hợp?",
+    "answer": "pd.read_excel(\"orders.xlsx\", sheet_name=1)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bạn muốn đọc file report.csv nhưng chỉ đọc 100 dòng đầu tiên để xem trước dữ liệu. Lệnh nào nên dùng?",
+    "answer": "pd.read_csv(\"report.csv\", nrows=100)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bạn muốn đọc file report.xlsx nhưng chỉ đọc 50 dòng đầu tiên để xem trước dữ liệu. Lệnh nào nên dùng?",
+    "answer": "pd.read_excel(\"report.xlsx\", nrows=50)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bạn có một tệp nhật ký log.txt với các trường dữ liệu được phân tách bằng ký tự tab. Để nạp tệp này vào DataFrame một cách chính xác và tường minh nhất, bạn nên sử dụng cú pháp nào?",
+    "answer": "df = pd.read_csv(\"log.txt\", sep=\"\\t\")"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bạn cần đọc file data.csv có 1 dòng tiêu đề, 2 dòng mô tả, sau đó mới đến dữ liệu. Cách nào để bỏ qua 2 dòng mô tả nhưng vẫn giữ tiêu đề?",
+    "answer": "pd.read_csv(\"data.csv\", skiprows=[1,2])"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "File \"data.csv\" lưu dữ liệu bắt đầu từ dòng đầu tiên (không có tiêu đề cột). Câu lệnh hợp lý để đọc file và đặt tên cột là [\"id\",\"name\",\"score\"] là gì?",
+    "answer": "df = pd.read_csv(\"data.csv\", header=None, names=[\"id\",\"name\",\"score\"])"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "File \"sales.csv\" có dòng đầu tiên là tên cột. Lệnh nào hợp lý nhất để đọc nội dung file vào DataFrame df?",
+    "answer": "df = pd.read_csv(\"sales.csv\")"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "File measurements.txt có dòng đầu là ghi chú, dòng thứ hai là tên cột. Bạn muốn dùng dòng thứ hai làm header, lệnh nào dưới đây là hợp lý nhất?",
+    "answer": "pd.read_csv(\"measurements.txt\", skiprows=[0], header=0)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Giả sử file data_messy.csv có 2 dòng đầu là mô tả văn bản, dòng thứ 3 là tiêu đề cột và từ dòng thứ 4 trở đi mới là dữ liệu. Bạn nên sử dụng kết hợp tham số nào?",
+    "answer": "pd.read_csv(\"data_messy.csv\", skiprows=[0,1], header=0)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Tệp tin scores.csv có dòng đầu tiên chứa tiêu đề cột, nhưng dòng thứ hai lại chứa một nội dung ghi chú không cần thiết. Bạn nên sử dụng tham số nào trong hàm read_csv?",
+    "answer": "skiprows=[1]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Tệp tin survey.csv không có dòng tiêu đề. Bạn cần nạp tệp này, gán tên cột là [\"id\", \"age\", \"income\"] và thiết lập cột id làm chỉ mục. Câu lệnh nào đúng?",
+    "answer": "pd.read_csv(\"survey.csv\", header=None, names=[\"id\",\"age\",\"income\"], index_col=\"id\")"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi thiết lập tham số header=None trong hàm pd.read_csv, Pandas sẽ xử lý tiêu đề các cột theo cách nào?",
+    "answer": "Tự động khởi tạo tên cột theo dãy số nguyên tăng dần (0, 1, 2, ...)."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi làm việc với tệp tin data.txt sử dụng dấu chấm phẩy (;) làm ký tự phân tách, bạn cần cấu hình tham số sep như thế nào?",
+    "answer": "sep=\";\""
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi đọc file CSV, tham số nào của hàm read_csv() dùng để bỏ qua một số dòng đầu tiên trong file?",
+    "answer": "skiprows"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Để đọc một CSV không có header nhưng muốn dùng dòng thứ 3 của file làm tên cột, cách làm nào là chính xác và an toàn nhất?",
+    "answer": "df = pd.read_csv(path, header=None); df.columns = df.iloc[2]; df = df.drop(2)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Hàm nào trong thư viện Pandas được dùng để ghi DataFrame df ra file CSV?",
+    "answer": "df.to_csv()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Hàm nào trong pandas được dùng để xuất DataFrame df ra file Excel?",
+    "answer": "df.to_excel()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Lệnh nào sau đây được dùng để lưu dữ liệu của DataFrame df ra file Excel tên là \"report.xlsx\"?",
+    "answer": "df.to_excel(\"report.xlsx\")"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi xuất dữ liệu từ DataFrame ra file excel, tham số nào của hàm to_excel() cho phép bỏ qua cột chỉ mục khi lưu file?",
+    "answer": "index=False"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Làm thế nào để ghi df1 và df2 (các DataFrame khác nhau) vào các sheet khác nhau trong cùng 1 file Excel?",
+    "answer": "Dùng ExcelWriter rồi df1.to_excel(writer,\"Sheet1\"), df2.to_excel(writer,\"Sheet2\") và writer.close()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Vì sao dùng ExcelWriter tốt hơn gọi to_excel nhiều lần cùng tên file nếu muốn có nhiều sheet?",
+    "answer": "Gọi to_excel nhiều lần thường ghi đè, ExcelWriter cho phép ghi nhiều sheet trong một phiên"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Hệ thống đọc Excel hằng ngày với 10–20 sheet/lần. Giải pháp nào tối ưu hơn về hiệu năng và bảo trì?",
+    "answer": "Dùng pd.ExcelFile để mở một lần, parse từng sheet, lâu dài chuyển sang DB nếu tần suất cao"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi đọc dữ liệu từ file excel có nhiều trang tính (sheet), để đọc một trang tính cụ thể ta dùng tham số nào của hàm read_excel()?",
+    "answer": "sheet_name"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi sử dụng hàm pd.read_excel(\"file.xlsx\") để nạp dữ liệu từ một tệp Excel chứa nhiều trang tính mà không chỉ định cụ thể tham số sheet_name, Pandas sẽ mặc định trích xuất dữ liệu từ trang tính nào?",
+    "answer": "Trang tính đầu tiên."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong hàm pd.read_csv(), nếu bạn muốn chủ động thiết lập danh sách tên cho các cột, bạn cần sử dụng tham số nào?",
+    "answer": "names"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong hàm pd.read_csv, nếu không truyền tham số names, Pandas sẽ mặc định coi hàng nào là tên cột?",
+    "answer": "Dòng đầu tiên"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong quá trình nạp dữ liệu từ tệp students.csv vào Pandas, bạn muốn thiết lập cột student_id làm chỉ mục (index) cho DataFrame ngay tại bước khởi tạo. Câu lệnh nào đúng?",
+    "answer": "df = pd.read_csv(\"students.csv\", index_col=\"student_id\")"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas, giả sử bạn đã có một DataFrame df. Để thống kê chính xác tổng số lượng các giá trị bị thiếu (missing values/NaN) hiện có trong từng cột dữ liệu, bạn nên sử dụng tổ hợp lệnh nào?",
+    "answer": "df.isnull().sum()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Giả sử cột \"Dân số\" được đọc dưới dạng chuỗi (string). Lệnh nào chuyển nó thành số nguyên (int)?",
+    "answer": "df[\"Dân số\"] = df[\"Dân số\"].astype(int)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Thư viện nào thường dùng với Pandas để làm việc với file .xlsx?",
+    "answer": "openpyxl"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bạn đọc file prices.txt có nhiều cột dùng hàm read_csv() với tham số sep=\";\" nhưng DataFrame trả về chỉ có một cột. Nguyên nhân hợp lý nhất là?",
+    "answer": "File prices.txt dùng tab hoặc \",\" để phân tách các cột dữ liệu chứ không phải \";\"."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi đọc CSV, lỗi: \"Error tokenizing data. C expected 5 fields, saw 7\" xuất hiện ở một số dòng, bạn xử lý như thế nào?",
+    "answer": "Tạm dùng tham số bỏ qua dòng lỗi (on_bad_lines=\"skip\"), log lại các dòng đó và xem xét sửa hoặc loại thủ công"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Để kiểm tra tổng quan về cấu trúc của một DataFrame bao gồm tổng số dòng, danh sách cột, số lượng giá trị không trống và kiểu dữ liệu từng cột, bạn nên sử dụng phương thức nào?",
+    "answer": "df.info()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Một cột dữ liệu có 90% là giá trị thiếu, hướng xử lý tốt nhất thường là:",
+    "answer": "Loại bỏ cột đó"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Pandas, phương thức dropna() mặc định sẽ thực hiện thao tác nào sau đây trên DataFrame?",
+    "answer": "Xóa hàng có ít nhất một giá trị thiếu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Lệnh nào trong thư viện Pandas thích hợp để kiểm tra việc thiếu dữ liệu theo các cột của DataFrame df?",
+    "answer": "df.isnull().mean()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Nhược điểm lớn nhất của phương pháp xóa hàng (dropna) khi xử lý dữ liệu thiếu là gì?",
+    "answer": "Làm giảm kích thước mẫu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "StandardScaler sử dụng công thức nào?",
+    "answer": "(x - mean) / std"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Đối với một biến phân loại (như \"Giới tính\" hoặc \"Tỉnh thành\") có dữ liệu bị thiếu, phương pháp điền khuyết nào sau đây là phổ biến nhất?",
+    "answer": "Điền bằng giá trị xuất hiện nhiều nhất"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi dữ liệu phân phối chuẩn, StandardScaler đưa dữ liệu về khoảng nào?",
+    "answer": "Đa số nằm trong khoảng [-3, 3]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Dữ liệu bị trùng lặp có thể dẫn đến hậu quả gì?",
+    "answer": "Gây thiên lệch kết quả phân tích"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "MinMaxScaler đưa dữ liệu về khoảng giá trị nào?",
+    "answer": "[0, 1]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Pandas, biểu thức df.isnull().mean() trả về thông tin gì về DataFrame df?",
+    "answer": "Tỷ lệ giá trị thiếu của mỗi cột"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong quá trình làm sạch dữ liệu, khi loại bỏ các hàng chứa dữ liệu thiếu, nhược điểm chính là gì?",
+    "answer": "Giảm kích thước mẫu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Pandas, tham số axis=0 trong phương thức dropna() cho biết thao tác được thực hiện theo chiều nào của DataFrame?",
+    "answer": "Theo hàng"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Chiến lược 'Forward Fill' (ffill) phù hợp nhất với dữ liệu nào?",
+    "answer": "Dữ liệu chuỗi thời gian"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Quá trình làm sạch dữ liệu thường bắt đầu bằng bước nào?",
+    "answer": "Khám phá và hiểu dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong chuẩn hóa Z-score, giá trị trung bình sau chuẩn hóa là:",
+    "answer": "0"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Nguyên nhân nào sau đây không phải là lý do phổ biến gây ra dữ liệu trùng lặp?",
+    "answer": "Thu thập thiếu dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Pandas, phương thức nào được sử dụng để loại bỏ các hàng trùng lặp trong DataFrame df?",
+    "answer": "df.drop_duplicates()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện Pandas, giá trị nào được sử dụng để biểu diễn dữ liệu thiếu cho kiểu số?",
+    "answer": "NaN."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Kỹ thuật điền giá trị thiếu bằng giá trị xuất hiện nhiều nhất gọi là gì?",
+    "answer": "Mode imputation"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Pandas, lệnh nào được sử dụng để thay thế các giá trị thiếu (NaN) bằng số 0 trong DataFrame df?",
+    "answer": "df.fillna(0)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Mục tiêu chính của chuẩn hóa dữ liệu (normalization) là gì?",
+    "answer": "Đưa dữ liệu về cùng thang đo."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Pandas, lệnh df.dropna(axis=1) thực hiện thao tác gì trên DataFrame df?",
+    "answer": "Xóa cột có giá trị thiếu"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas, lệnh df.duplicated().sum() trả về kết quả 5, nghĩa là:",
+    "answer": "Có 5 hàng bị lặp lại."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Pandas, kết quả của biểu thức df.isna().sum() biểu thị điều gì?",
+    "answer": "Số lượng dữ liệu thiếu theo từng cột."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), hàm groupby() được dùng để làm gì?",
+    "answer": "Chia dữ liệu thành các nhóm theo khóa."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), sau khi dùng hàm groupby(), thao tác nào thường được thực hiện tiếp theo?",
+    "answer": "Áp dụng phép tổng hợp như hàm sum() hoặc hàm mean()."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), hàm merge() dùng để làm gì?",
+    "answer": "Kết hợp hai DataFrame dựa trên khóa chung."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), hàm concat() thường dùng để làm gì?",
+    "answer": "Nối nhiều DataFrame theo trục."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), sự khác nhau chính giữa hàm merge() và hàm concat() là gì?",
+    "answer": "Hàm merge() theo khóa, hàm concat() theo trục."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện Pandas, khi dùng hàm merge() với tham số how=\"inner\", kết quả gộp dữ liệu sẽ như thế nào?",
+    "answer": "Chỉ giữ các dòng có khóa xuất hiện ở cả hai DataFrame."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện Pandas, khi dùng hàm merge() với tham số how=\"left\", kết quả gộp dữ liệu sẽ như thế nào?",
+    "answer": "Giữ tất cả các dòng từ DataFrame bên trái, và điền NaN cho các giá trị ở bên phải nếu không khớp."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), khi sử dụng tham số how='right' trong hàm pandas.merge(), kết quả sẽ như thế nào?",
+    "answer": "Bảo toàn toàn bộ các hàng từ DataFrame bên phải và chỉ lấy các hàng khớp từ DataFrame bên trái."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), Index được dùng để làm gì?",
+    "answer": "Định danh và truy cập các hàng dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), MultiIndex có ý nghĩa gì?",
+    "answer": "Cho phép nhiều cấp chỉ số trên một trục dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), hàm sort_index() sắp xếp dữ liệu dựa trên yếu tố nào?",
+    "answer": "Chỉ số index của dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi sử dụng phương thức concat trong thư viện Pandas, tham số axis dùng để chỉ định điều gì?",
+    "answer": "Trục mà theo đó các DataFrame được nối."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Xét đoạn code: df = pd.concat([A, B], axis=0). Kết quả thu được có đặc điểm nào sau đây?",
+    "answer": "Gộp dữ liệu theo hàng."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện Pandas (Python), với DataFrame df, điểm khác biệt cơ bản về hành vi giữa pandas.merge() và df.join() là gì?",
+    "answer": "Phương thức join mặc định gộp dựa trên chỉ số (index), trong khi phương thức merge mặc định gộp dựa trên các cột chung."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Câu lệnh sau đây thực hiện thao tác biến đổi nào trên DataFrame df?\ndf.pivot(index=\"date\", columns=\"item\", values=\"value\")",
+    "answer": "Tạo DataFrame mới với các dòng là các ngày (\"date\"), các cột là tên các mặt hàng (\"item\"), và điền dữ liệu vào ô bằng cột \"value\"."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Câu lệnh sau đây thực hiện thao tác biến đổi nào trên DataFrame df?\npandas.melt(df, id_vars=\"key\", value_vars=[\"A\", \"B\"])",
+    "answer": "Chuyển các cột \"A\", \"B\" thành các hàng, giữ nguyên cột \"key\" làm cột định danh."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Đặc điểm nào mô tả đúng nhất về định dạng bảng dài (long format) trong phân tích dữ liệu?",
+    "answer": "Bảng có rất nhiều hàng và ít cột."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện Pandas (Python), với DataFrame df, df.stack() chuyển cột vào trục chỉ số (tạo MultiIndex), còn pd.melt() thì sao?",
+    "answer": "df.stack() chuyển cột vào trục chỉ số (tạo MultiIndex), còn pd.melt() chuyển cột thành các hàng dữ liệu mới."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), sau khi dùng hàm reset_index(), index cũ sẽ được xử lý thế nào?",
+    "answer": "Trở thành một cột dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), giả sử có DataFrame với index [2,0,1]. Khi gọi hàm sort_index(), index mới là gì?",
+    "answer": "[0,1,2]"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện pandas (Python), giả sử bạn có DataFrame df với các cột dữ liệu. Bạn muốn biến một cột có sẵn thành chỉ số (index) của df để quản lý hàng tốt hơn. Hàm nào sau đây thực hiện thao tác trên?",
+    "answer": "df.set_index()"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi trực quan hóa dữ liệu, mục tiêu của trực quan hóa trong giai đoạn khám phá (exploration) là gì?",
+    "answer": "Phát hiện xu hướng, mẫu lặp và điểm bất thường trong dữ liệu"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Biểu đồ nào phù hợp dùng để hiển thị dữ liệu theo thời gian?",
+    "answer": "Biểu đồ đường (Line chart)."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi trực quan hóa dữ liệu bằng biểu đồ tần suất (Histogram), nếu chọn bin width quá nhỏ thường gây ra điều gì?",
+    "answer": "Làm biểu đồ nhiễu và khó nhận diện xu hướng"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Biểu đồ phân tán (Scatter plot) được sử dụng phù hợp nhất trong trường hợp nào?",
+    "answer": "Thể hiện mối quan hệ giữa hai biến liên tục, mỗi điểm là một quan sát"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trực quan hóa dữ liệu với biểu đồ nhiệt (Heatmap) thường được sử dụng hiệu quả nhất trong trường hợp nào?",
+    "answer": "Phân tích dữ liệu dạng ma trận hai chiều"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi thiết kế, câu hỏi nào nên được đặt ra đầu tiên khi chọn loại biểu đồ?",
+    "answer": "Mục tiêu trình bày là gì: so sánh, phân bố, mối quan hệ hay thành phần?"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Khi trình bày dữ liệu bằng biểu đồ cột 2D, hành động nào dưới đây vi phạm nghiêm trọng nguyên tắc trung thực trong trực quan hoá dữ liệu?",
+    "answer": "Cắt trục Y bắt đầu từ một giá trị lớn hơn 0 để làm khác biệt giữa các nhóm trông rõ rệt hơn"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Hai biểu đồ tần suất (Histogram) biểu diễn cùng một tập dữ liệu nhưng cho hình dạng phân bố rất khác nhau. Nguyên nhân hợp lý nhất là gì?",
+    "answer": "Độ rộng bin (bin width) được lựa chọn khác nhau"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong thư viện Matplotlib, hàm plt.title() được dùng để làm gì khi tạo biểu đồ?",
+    "answer": "Đặt tiêu đề biểu đồ."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Phát biểu nào dưới đây phản ánh đúng nhất nguyên tắc lựa chọn biểu đồ trong trực quan hoá dữ liệu?",
+    "answer": "Không có biểu đồ \"tốt nhất\" cho mọi tình huống; cần chọn loại biểu đồ phù hợp với mục đích phân tích"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Học máy (Machine Learning) là một lĩnh vực thuộc:",
+    "answer": "Trí tuệ nhân tạo"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Phương pháp học máy nào sử dụng dữ liệu đã được gán nhãn để huấn luyện mô hình?",
+    "answer": "Học có giám sát (Supervised Learning)"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Học không có giám sát (Unsupervised Learning) là phương pháp học máy sử dụng:",
+    "answer": "Dữ liệu chưa được gán nhãn"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bài toán xây dựng một mô hình để dự báo doanh thu của một cửa hàng dựa trên chi phí quảng cáo, số lượng nhân viên và số lượng khách hàng. Đây là:",
+    "answer": "Bài toán hồi quy"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Mô hình Hồi quy tuyến tính (Linear Regression) thường được sử dụng để:",
+    "answer": "Dự báo giá trị thuộc miền liên tục"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Hồi quy Logistic (Logistic Regression) thường được sử dụng để giải quyết loại bài toán nào?",
+    "answer": "Phân lớp"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong mô hình Hồi quy Logistic, hàm nào được sử dụng để chuyển đổi đầu ra của mô hình thành xác suất?",
+    "answer": "Sigmoid"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong Hồi quy Logistic, hàm sigmoid có nhiệm vụ:",
+    "answer": "Chuyển đầu ra thành xác suất"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Một mô hình Logistic dự báo xác suất mua hàng của khách hàng là P(Buy=1)=0.48. Nếu ngưỡng phân loại là 0,5 thì kết quả dự báo là:",
+    "answer": "Không mua sản phẩm"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Một mô hình Logistic dự báo xác suất khách hàng mua sản phẩm là 0,65. Nếu doanh nghiệp thay đổi ngưỡng phân loại từ 0,5 lên 0,7 thì kết quả dự báo sẽ thay đổi như thế nào?",
+    "answer": "Từ lớp 1 sang lớp 0"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Bước đầu tiên trong quy trình xây dựng mô hình học máy là:",
+    "answer": "Thu thập dữ liệu"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong học máy, tập dữ liệu được sử dụng để huấn luyện mô hình được gọi là:",
+    "answer": "Tập huấn luyện"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Độ đo R² càng gần giá trị nào thì mô hình hồi quy càng tốt?",
+    "answer": "1"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Một mô hình hồi quy có R²=0.92. Điều này có nghĩa là:",
+    "answer": "Mô hình giải thích được khoảng 92% sự biến thiên của dữ liệu."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Nếu giá trị RMSE của hai mô hình lần lượt là 5 và 12 thì:",
+    "answer": "Mô hình có RMSE = 5 tốt hơn"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong ma trận nhầm lẫn, TP (True Positive) là:",
+    "answer": "Mẫu thực tế là 1 và dự đoán là 1"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Một mô hình phân lớp có: Precision = 0,95, Recall = 0,50. Nhận xét nào phù hợp nhất?",
+    "answer": "Hầu hết các mẫu được mô hình gán nhãn là 1 có nhãn thực tế là 1. Nhưng nhiều mẫu có nhãn thực tế là 1 bị mô hình gán nhãn là 0."
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Một mô hình phân lớp có: TP = 40, FP = 10. Giá trị Precision bằng:",
+    "answer": "0.80"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Trong một tập dữ liệu dự báo khả năng khách hàng mua sản phẩm, biến \"Buy\" nhận giá trị 0 hoặc 1. Biến này đóng vai trò:",
+    "answer": "Label"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Một doanh nghiệp muốn chia khách hàng thành các nhóm có hành vi mua sắm tương đồng để xây dựng chiến lược marketing riêng cho từng nhóm. Doanh nghiệp không có thông tin khách hàng thuộc nhóm nào từ trước. Phương pháp học máy nào phù hợp nhất?",
+    "answer": "Học không có giám sát"
+  },
+  {
+    "subject": "Khoa học dữ liệu trong kinh tế và kinh doanh",
+    "question": "Nếu mô hình Logistic dự báo xác suất = 0.75 và ngưỡng phân loại là 0,5 thì mẫu dữ liệu được gán vào lớp:",
+    "answer": "1"
+  },
     {
       "subject": "Quản trị chiến lược 1",
       "question": "Các lực lượng cạnh tranh trong mô hình của Porter KHÔNG bao gồm:",
       "answer": "Nguồn lực thay thế chiến lược"
     },
+    
     {
       "subject": "Quản trị chiến lược 1",
       "question": "Sức ép của các nhà cung cấp giảm đi nếu:",
